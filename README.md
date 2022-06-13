@@ -4,7 +4,7 @@
 <html>
   <head>
     <h1 id="title">Medical Survey Form</h1>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="1st-WD-project/styles.css">
   </head>
   <body>
        <p id="description">Thanks for filling in your opinion to help our fight against Malaria</p>
